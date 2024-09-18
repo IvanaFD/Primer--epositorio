@@ -1,1 +1,4 @@
-hola mundo 
+public class prueba {
+hola
+    
+}
