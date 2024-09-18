@@ -1,1 +1,3 @@
-public class segundaClase{}
+public class segudaClase{
+
+}
